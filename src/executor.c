@@ -1,7 +1,5 @@
 /**
 Name: Jesuseyi Oyeyemi
-University ID Number: 117241716
-UMD Directory ID: joyeyemi
 */
 
 #include <stdio.h>
